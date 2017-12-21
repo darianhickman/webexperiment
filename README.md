@@ -2,7 +2,7 @@
 Collection of html javascript css experiments.  For learning purposes only. 
 
 
-#. Can Video Replace Animation combines two experiments. 
+# Can Video Replace Animation combines two experiments. 
 * What does a grid filled with video look like. autoplay is helpful.  
 * How to cancel out all the style and js that exports from Google sheets when one downloads a sheet as html.
 
